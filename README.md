@@ -1,2 +1,2 @@
-# Omok
-Omok Game App
+# Omok 게임 
+팀 소나기의 첫 게임 'Omok(가제)' 입니다.
